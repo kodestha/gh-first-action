@@ -8,3 +8,7 @@ jobs:
         run: echo "hello from action"
       - name: Say Goodbye
         run: echo "Good Bye"
+      - name: Multiline shell commands
+        run: |
+            echo "Hey threre"
+            echo "How are you?"
