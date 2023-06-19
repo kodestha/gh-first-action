@@ -10,5 +10,5 @@ jobs:
         run: echo "Good Bye"
       - name: Multiline shell commands
         run: |
-            echo "Hey threre"
+            echo "Hey there"
             echo "How are you?"
