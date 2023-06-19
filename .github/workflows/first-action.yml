@@ -6,3 +6,5 @@ jobs:
     steps:
       - name: Simple log
         run: echo "hello from action"
+      - name: Say Goodbye
+        run: echo "Good Bye"
